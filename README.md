@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="profile-ascii.png" alt="Laith Abu-Saleem" width="420" />
+<img src="https://raw.githubusercontent.com/laithabusaleem/laithabusaleem/master/profile-ascii.png" alt="Laith Abu-Saleem" width="420" />
 
 # Laith Abu-Saleem
 
