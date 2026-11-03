@@ -1,78 +1,72 @@
-<!--
-  DRAFT for https://github.com/laithabusaleem/laithabusaleem
-  Requires: profile-ascii.png in the same repo root.
-  Do not publish AURORA proposal materials publicly.
--->
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/laithabusaleem/laithabusaleem/master/profile-ascii.png" alt="Laith Abu-Saleem" width="420" />
 
 # Laith Abu-Saleem
 
-**Software, AI systems & applied research · Amman, Jordan**
+**Amman, Jordan**
 
-I design and ship bilingual product software, agent tooling, and technical proposals for organizations — from local operators to formal institutional evaluation packages.
+A researcher exploring the intersection of technology, neuroscience, and human behaviour, aiming to develop biomedical systems that enhance cognitive and physical capabilities by integrating psychology, neuroscience, and engineering. My work combines technical precision with human-centred design to advance medical technology and deepen understanding of the mind-body connection.
 
 [Portfolio](https://laith-abu-saleem-portfolio.vercel.app)
-&nbsp;·&nbsp;
+·
 [LinkedIn](https://www.linkedin.com/in/laith-abusaleem-1156b8353)
-&nbsp;·&nbsp;
+·
 [Email](mailto:laithabusaleem0@gmail.com)
+·
+[+962 787 790 364](tel:+962787790364)
 
 </div>
 
 ---
 
-### Focus
+### Education
 
-- **Production-minded product software** (TypeScript / Next.js / APIs, AR+EN)
-- **Applied AI** — agents, evaluation, automation where it beats conventional workflows
-- **Cybersecurity background** — national competition results, threat-aware engineering
-- **Institutional / B2B proposals** — technical packages prepared for organizational review (private)
+- **Islamic Educational College (IEC), Amman, Jordan** · Senior student, Class of 2026  
+  Advanced coursework: Biology, Mathematics, Chemistry, Computer Science. Focus areas: Biomedical Engineering, AI-driven Innovation, Cognitive Systems.
+- **Applied Science University (ASU)** · First-year student in AI and Data Science
 
-### Public engineering (pinned)
+### Scholarships
 
-| Repo | What it is |
-| --- | --- |
-| [Agency-OS](https://github.com/laithabusaleem/Agency-OS) | Agency operations platform — CRM, agent worker, acquisition & delivery |
-| [AgentWeave](https://github.com/laithabusaleem/AgentWeave) | Python agent library with typed tools, traces, deterministic replay |
-| [LivePersona](https://github.com/laithabusaleem/LivePersona) | Interruption-aware synthetic conversation demo |
-| [OmniSkill](https://github.com/laithabusaleem/OmniSkill) | Capability-routing CLI for AI workflows |
-| [laith-portfolio](https://github.com/laithabusaleem/laith-portfolio) | Bilingual portfolio site |
-| [ML_biomass](https://github.com/laithabusaleem/ML_biomass) | Classic ML + OpenCV classifier (honest small experiment) |
-
-**Private / under NDA:** commercial marketplace platforms, tutoring directory product, client deliveries, and selected research proposals. Email for a scoped case study.
+- 50% Scholarship, Applied Science University (ASU)
+- $12,000 Scholarship, Rochester Institute of Technology (RIT)
 
 ### Competitions
 
-| Result | Event |
-| --- | --- |
-| 1st | National Cyber Security Competition (NCSC 2025) |
-| Gold | National Junior Cybersecurity Olympiad (NJCO 2025) |
-| 2nd | Artificial Intelligence Olympiad — ML (AIO 2025) |
-| Finalist | ISEF 2025 (Jordan) · Genius Olympiad 2025 (New York) |
+- **1st Place** · National Cyber Security Competition (NCSC 2025)
+- **Gold Medal** · National Junior Cybersecurity Olympiad (NJCO 2025)
+- **2nd Place** · Artificial Intelligence Olympiad, ML (AIO 2025)
+- **2nd Place** · AIO 2024 (Algorithms and Math Track)
+- **3rd Place** · ASUCK (ASUCyberKingdom)
+- **Finalist** · International Science and Engineering Fair (ISEF 2025, Jordan)
+- **Finalist** · Genius Olympiad 2025 (New York, USA)
+- **Finalist** · IFEST (International Festival of Engineering Science and Technology)
+- **Top 10** · RLCTF (RLords Capture the Flag)
+- **Participant and Assistant** · JoYS 2024-2025 (Jordan Youth Science Forum)
 
-### Working with organizations
+### Projects
 
-Useful when you need:
+**Injury Detection System**  
+Developed a biomedical monitoring system that processes real-time vital signs (heart rate, oxygen level, and temperature), achieving 95% accuracy in early injury detection, and sends automated alerts to the patient.
 
-1. A fixed-scope bilingual product or ops tool (directory, floor board, microsite, automation)  
-2. An AI pilot with clear success criteria — not demo theater  
-3. A technical proposal package suitable for company or institutional review  
+**TinyTask (AI Note System)** · Contributor  
+Concept and UI/UX design for a minimalist AI-driven note-taking platform focused on summarization and task memory.
 
-Describe the problem and constraints by email. I do not publish confidential proposal materials on this profile.
+**Vytal (AI Mental Health Companion)**  
+Research, study, and documentation for a 2026 competition project with Hamzeh Hijazi (development and showcase).
 
-### Stack
+**Other work**  
+Small-scale experiments in AI, automation, and cybersecurity, including a prompt-injection detection prototype and automated data pipelines. Projects serving local businesses, including loyalty systems and other product ideas.
 
-`TypeScript` `Next.js` `NestJS` `Python` `PostgreSQL` `SQLite` `Prisma` `Drizzle` `Zod` `Docker` · LLM APIs when justified
+### Technical skills
 
-### Currently
+- **Programming:** Python (Pandas, NumPy), basic machine learning models, API development, Arduino integration
+- **Focus areas:** Artificial intelligence, cybersecurity, biomedical systems, neuroscience, medical technology
+- **Tools:** Git/GitHub, Notion, Flet, Arduino, serial communication, cryptography tools
+- **Concepts:** Machine learning, biomedical data analysis, neural modelling, prompt-injection detection and prevention
 
-ASU — AI & Data Science. Shipping client and product software from Amman. Prioritizing **production pilots and formal proposals** over public experiment sprawl.
+### Design
 
----
-
-<div align="center">
-<sub>Amman, Jordan · Project & proposal inquiries welcome</sub>
-</div>
+- UI/UX: minimalist interfaces, behavioural triggers
+- Human-centred systems: stress-reduction workflows, attention management tools
+- Concept visualisation and behavioural design informed by psychology and the mind-body connection
